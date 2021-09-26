@@ -1,4 +1,4 @@
-package com.plcoding.cleanarchitecturenoteapp
+package com.rajeshlearns.mynotes
 
 import org.junit.Test
 
